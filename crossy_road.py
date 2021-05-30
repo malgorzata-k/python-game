@@ -6,6 +6,9 @@ import random
 
 
 def mygame():
+    '''
+    Start a game
+    '''
     def load_image(name, use_color_key=False):
         '''
         Upload an image and convert it to a surface.
@@ -63,7 +66,6 @@ def mygame():
     def get_money():
         '''
         Get money by turtle
-        :return:
         '''
         for coin in money:
             if not coin.visible:
