@@ -510,7 +510,7 @@ def my_game(mode=1):
         '''
         Display the number of points scored on the screen
         '''
-        score_text = font_score.render(f'Score: : {str(points)}', True, black)
+        score_text = font_score.render(f'Score: {str(points)}', True, black)
         screen.blit(score_text, (20, 660))
 
     def high_score(high_score):
