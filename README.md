@@ -2,7 +2,7 @@
 ## Author: Małgorzata Kowalczyk
 
 ### Short description
-Crossy road is a game in which you have to get your turtle across the road. It is hampered by speeding cars, which the turtle has to avoid.\
+Crossy road is a game in which you have to get your turtle across the road. It is hampered by speeding cars, which the turtle has to avoid.
 
 ![alt text](https://github.com/malgorzata-k/python-game/blob/main/images/photo1.png?raw=true)
 
