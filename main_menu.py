@@ -786,7 +786,7 @@ def my_game(mode=1):
     coin_fx = load_sound("coin.wav")
     explode_fx = load_sound("explosion.wav")
 
-    font_score = pygame.font.SysFont("Calibri", 20)
+    font_score = pygame.font.SysFont("Calibri", 25)
     background = Screen()
     screen_sprite = pygame.sprite.Group()
     screen_sprite.add(background)
